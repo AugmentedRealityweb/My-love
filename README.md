@@ -81,13 +81,10 @@
       environment-image="neutral"
       shadow-intensity="1"
       loading="lazy"
-      alt="Noodle"
+      alt="Mylove"
       min-camera-orbit="auto 0deg 0deg"
       max-camera-orbit="auto 80deg auto">
       <button slot="ar-button" class="ar-button">Activează modul AR</button>
     </model-viewer>
-  </div>
-  <a href="https://augmentedrealityweb.github.io/toate-produsele/" class="back-link">Înapoi la meniul principal</a>
-</div>
 </body>
 </html>
